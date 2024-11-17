@@ -15,7 +15,7 @@
    
 😄 Pronouns: he/him/his
 
- Fun fact: I never attended a high school or university campus below Masters level study.
+⚡Fun fact: I never attended a high school or university campus below Masters level study.
 
 <!---
 okelytax/okelytax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
